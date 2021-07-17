@@ -1,2 +1,2 @@
-# pandas
+# pandas study
 just a try
